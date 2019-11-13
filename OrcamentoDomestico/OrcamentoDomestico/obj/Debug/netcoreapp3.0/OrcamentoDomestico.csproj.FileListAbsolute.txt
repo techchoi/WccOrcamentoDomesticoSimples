@@ -1,0 +1,3 @@
+C:\Users\kotra\source\repos\OrcamentoDomestico\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.csprojAssemblyReference.cache
+C:\Users\kotra\source\repos\OrcamentoDomestico\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.AssemblyInfoInputs.cache
+C:\Users\kotra\source\repos\OrcamentoDomestico\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.AssemblyInfo.cs
